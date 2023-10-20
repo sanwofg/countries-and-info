@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/countries-and-info/static/css/main.6880f03f.css",
+    "main.js": "/countries-and-info/static/js/main.ec7530ef.js",
+    "static/media/night-mode.png": "/countries-and-info/static/media/night-mode.17747ead0809cfa6c396.png",
+    "index.html": "/countries-and-info/index.html",
+    "main.6880f03f.css.map": "/countries-and-info/static/css/main.6880f03f.css.map",
+    "main.ec7530ef.js.map": "/countries-and-info/static/js/main.ec7530ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6880f03f.css",
+    "static/js/main.ec7530ef.js"
+  ]
+}
