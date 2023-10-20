@@ -96,12 +96,14 @@
   .container{
     max-width:40vw;
     min-width: 40vw;
-    height:5vh;
+    max-height:40vh;
+    min-height:40vh;
   }
   .containers{
     max-width:40vw;
     min-width: 40vw;
-    height:5vh;
+    max-height:40vh;
+    min-height:40vh;
   }
 }
 .container{
